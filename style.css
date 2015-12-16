@@ -1,0 +1,160 @@
+/* Remove default style, so that the canvas can be fullscreen. */
+html, body {
+	width: 100%;
+	height: 100%;
+}
+
+
+h1 {
+	font-family: "Bangla MN";
+	font-size: 30px;
+	text-align: center;
+}
+
+td {
+	font-family: "Bangla MN";
+	font-size: 15px;
+	text-align: center;
+	background-color: rgb(108, 136, 145);
+
+}
+
+sup {
+	font-size: 10px;x
+	width: 180%;
+}
+
+.actinide {
+		background-color: rgb(255, 255, 255);
+		border-style: solid;
+		border-color: rgb(255, 255, 153);
+
+}
+
+.actinidegroup {
+		background-color: rgb(255, 255, 204);
+		border-style: solid;
+		border-color: rgb(255, 255, 153);
+}
+
+
+.alkali {
+		background-color: rgb(255, 255, 255);
+		border-style: solid;
+		border-color: rgb(204, 102, 0);
+}
+
+.alkaligroup {
+		background-color: rgb(255, 128, 0);
+		border-style: solid;
+		border-color: rgb(204, 102, 0);
+}
+
+
+.alkaline {
+	background-color: rgb(255, 255, 255);
+	border-style: solid;
+	border-color: rgb(51, 102, 0);
+}
+
+.alkalinegroup {
+	background-color: rgb(76, 153, 0);
+	border-style: solid;
+	border-color: rgb(51, 102, 0);
+}
+
+.emptycell{
+	background-color: rgb(255, 255, 255);
+	border: 0px;
+}
+
+.halogen {
+	background-color: rgb(255, 255, 255);
+	border-style: solid;
+	border-color: rgb(153, 153, 255);
+}
+
+
+.halogengroup {
+	background-color: rgb(204, 204, 255);
+	border-style: solid;
+	border-color: rgb(153, 153, 255);
+}
+
+.lanthanide {
+		background-color: rgb(255, 255, 255);
+		border-style: solid;
+		border-color: rgb(255, 153, 255);
+}
+
+.lanthanidegroup {
+		background-color: rgb(255, 204, 255);
+		border-style: solid;
+		border-color: rgb(255, 153, 255);
+}
+
+.metalloid {
+		background-color: rgb(255, 255, 255);
+		border-style: solid;
+		border-color: rgb(0, 102, 102);
+
+}
+
+.metalloidgroup {
+		background-color: rgb(0, 153, 153);
+		border-style: solid;
+		border-color: rgb(0, 102, 102);
+
+}
+
+.noblegas {
+	background-color: rgb(255, 255, 255);
+	border-style: solid;
+	border-color: rgb(0, 153, 153);
+}
+
+.noblegasgroup {
+	background-color: rgb(0, 204, 204);
+	border-style: solid;
+	border-color: rgb(0, 153, 153);
+}
+
+
+.nonmetal {
+	background-color: rgb(255, 255, 255);
+	border-style: solid;
+	border-color: rgb(192, 192, 192);
+}
+
+.nonmetalgroup {
+	background-color: rgb(224, 224, 224);
+	border-style: solid;
+	border-color: rgb(192, 192, 192);
+}
+
+.othermetal {
+	background-color: rgb(255, 255, 255);
+	border-style: solid;
+	border-color: rgb(153, 255, 153);
+}
+
+
+.othermetalgroup {
+	background-color: rgb(204, 255, 204);
+	border-style: solid;
+	border-color: rgb(153, 255, 153);
+}
+
+.transition {
+	background-color: rgb(255, 255, 255);
+	border-style: solid;
+	border-color: rgb(255, 178, 102);
+}
+
+
+.transitiongroup {
+	background-color: rgb(255, 209, 204);
+	border-style: solid;
+	border-color: rgb(255, 178, 102);
+}
+
