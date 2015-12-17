@@ -19,6 +19,10 @@ td {
 
 }
 
+tr {
+	height: 60px;
+}
+
 sup {
 	font-size: 10px;x
 	width: 180%;
@@ -27,7 +31,6 @@ sup {
 .actinide {
 		background-color: rgb(255, 255, 255);
 		border-style: solid;
-		border-color: rgb(255, 255, 153);
 
 }
 
@@ -41,7 +44,6 @@ sup {
 .alkali {
 		background-color: rgb(255, 255, 255);
 		border-style: solid;
-		border-color: rgb(204, 102, 0);
 }
 
 .alkaligroup {
@@ -54,13 +56,18 @@ sup {
 .alkaline {
 	background-color: rgb(255, 255, 255);
 	border-style: solid;
-	border-color: rgb(51, 102, 0);
 }
 
 .alkalinegroup {
 	background-color: rgb(76, 153, 0);
 	border-style: solid;
 	border-color: rgb(51, 102, 0);
+}
+
+.element {
+	background-color: rgb(255, 255, 255);
+	border-style: 1px;
+	border-color: rgb(192, 192, 192);
 }
 
 .emptycell{
@@ -71,7 +78,7 @@ sup {
 .halogen {
 	background-color: rgb(255, 255, 255);
 	border-style: solid;
-	border-color: rgb(153, 153, 255);
+
 }
 
 
@@ -84,7 +91,6 @@ sup {
 .lanthanide {
 		background-color: rgb(255, 255, 255);
 		border-style: solid;
-		border-color: rgb(255, 153, 255);
 }
 
 .lanthanidegroup {
@@ -96,7 +102,6 @@ sup {
 .metalloid {
 		background-color: rgb(255, 255, 255);
 		border-style: solid;
-		border-color: rgb(0, 102, 102);
 
 }
 
@@ -110,7 +115,6 @@ sup {
 .noblegas {
 	background-color: rgb(255, 255, 255);
 	border-style: solid;
-	border-color: rgb(0, 153, 153);
 }
 
 .noblegasgroup {
@@ -123,7 +127,6 @@ sup {
 .nonmetal {
 	background-color: rgb(255, 255, 255);
 	border-style: solid;
-	border-color: rgb(192, 192, 192);
 }
 
 .nonmetalgroup {
@@ -135,7 +138,6 @@ sup {
 .othermetal {
 	background-color: rgb(255, 255, 255);
 	border-style: solid;
-	border-color: rgb(153, 255, 153);
 }
 
 
@@ -148,7 +150,6 @@ sup {
 .transition {
 	background-color: rgb(255, 255, 255);
 	border-style: solid;
-	border-color: rgb(255, 178, 102);
 }
 
 
